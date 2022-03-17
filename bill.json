@@ -14,7 +14,7 @@
       ],
       "payments":[
          {
-            "Date":"Remote - 01/01/2022",
+            "date":"Remote - 01/01/2022",
             "value":"1.0"
          },
          {
