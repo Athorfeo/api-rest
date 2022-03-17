@@ -1,1 +1,26 @@
-{"code":"000", "message":"This is a message", "data":"hola"}
+{
+   "code":"000",
+   "message":"This is a message",
+   "data":{
+      "products":[
+         {
+            "name":"Form remote",
+            "price":"1.0"
+         },
+         {
+            "name":"Form remote",
+            "price":"1.0"
+         }
+      ],
+      "payments":[
+         {
+            "data":"Remote - 01/01/2022",
+            "price":"1.0"
+         },
+         {
+            "name":"Remote - 01/01/2022",
+            "price":"1.0"
+         }
+      ]
+   }
+}
