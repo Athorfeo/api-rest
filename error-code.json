@@ -1,5 +1,5 @@
 {
-   "code":"-100",
+   "code":-100,
    "message":"This is a message",
    "data":"An error has occurred"
 }
