@@ -1,3 +1,52 @@
 {
-   "title":"Athorfeo"
+   "es":{
+       "title":"Athorfeo",
+       "titleExtension":"io",
+       "titleCareer":"Ingeniero en Multimedia",
+
+       "actionRepositories":"Repositories",
+       "actionCurriculum":"Curriculum",
+
+       "labelRepositories":"Repositories",
+
+       "repositories":[
+           {
+               "title":"mobile-android-architecture",
+               "description":"Android: Kotlin, Jetpack, Coroutines",
+               "url":"https://github.com/Athorfeo"
+           }
+       ],
+
+       "curriculum":{
+           "firstName":"Juan",
+           "lastName":"Ortiz",
+           "jobTitle":"Mobile Architect | Android Developer",
+           "getInTouch":{
+               "title":"Get in touch",
+               "description":"You can contact me",
+               "location":"Bogotá, Colombia",
+               "email":"juanortizbayona@gmail.com"
+           },
+           "overview":"Ingeniero en multimedia apasionado por la tecnología y desarrollo de software. Interesado en el rendimiento y experiencia en las aplicaciones móviles.",
+           "experience":"Experiencia",
+           "experiencies":[
+               {
+                   "date":"11/2019 - Present",
+                   "jobTitle":"Mobile Architect Lead",
+                   "company":"NovoPayment",
+                   "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras orci leo, facilisis sit amet lacinia et, sagittis ac mi. Vivamus ligula lacus, vulputate sit amet lectus ut, bibendum vestibulum erat.",
+                   "responsabilities":"Responsabilities",
+                   "listResponsabilities":[
+                       "This is a list",
+                       "It appears completely unstyled",
+                       "Structurally, it's still a list.",
+                       "However, this style only applies to immediate child elements.",
+                       "This may still come in handy in some situations."
+                   ]
+               }
+           ]
+       }
+   }
 }
+
+
