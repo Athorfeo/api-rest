@@ -1,0 +1,9 @@
+{
+   "code":0,
+   "message":"This is a message",
+   "data":{
+      "merchant":"Remote Merchant",
+      "date":"Jun 1, 2021",
+      "value":"20.0"
+   }
+}
