@@ -1,9 +1,0 @@
-{
-   "code":0,
-   "message":"This is a message",
-   "data":{
-      "data": "10 Oct 2023",
-      "merchant": "Electric Bill",
-      "value": "-11.5"
-   }
-}
