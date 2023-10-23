@@ -1,0 +1,12 @@
+{
+   "code":0,
+   "message":"This is a message",
+   "data":{
+      "id": 0,
+      "firstName": "Bill",
+      "lastName": "Evans",
+      "username": "bevans",
+      "email": "bevans@email.com",
+      "phone": "555555555"
+   }
+}
